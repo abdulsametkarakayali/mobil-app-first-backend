@@ -6,7 +6,6 @@ const port = 3000;
 
 app.use(cors());
 
-const messages = [
     const messages = [
 		"Bugün harika bir gün olacak!",
 		"Her zorluk, yeni bir fırsat getirir.",
